@@ -8,5 +8,6 @@ end
 
 group :test do
   gem 'aruba', '0.5.1'
+  gem 'cucumber', '< 2.4.0'
   gem 'communist', '~> 0.3.0'
 end
