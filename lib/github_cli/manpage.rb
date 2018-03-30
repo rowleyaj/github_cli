@@ -1,6 +1,5 @@
 # encoding: utf-8
 
-require 'ronn'
 require 'tty-prompt'
 require 'tty-which'
 
